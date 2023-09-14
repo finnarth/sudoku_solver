@@ -13,6 +13,9 @@ namespace sudoku_solver.Models
 		public bool Solved { get; set; }
 		public int Number { get; set; }
 
-		public override string ToString() => Solved ? Number.ToString() : "x";
+		public override string ToString() 
+			=> Solved 
+			? Number.ToString() 
+			: $"x";
 	}
 }

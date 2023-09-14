@@ -7,6 +7,7 @@ namespace sudoku_solver
 	{
 		static void Main(string[] args)
 		{
+			Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("Sudoku solver made by FinnArth");
             Console.WriteLine("Instruction: insert sudoku lines with 'x' instead of an empty cell");
 			Console.WriteLine("Your Sudoku:");
