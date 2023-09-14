@@ -1,0 +1,14 @@
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.AssemblyInfoInputs.cache
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.AssemblyInfo.cs
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.csproj.CoreCompileInputs.cache
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\bin\Debug\net6.0\sudoku_solver.exe
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\bin\Debug\net6.0\sudoku_solver.deps.json
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\bin\Debug\net6.0\sudoku_solver.runtimeconfig.json
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\bin\Debug\net6.0\sudoku_solver.dll
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\bin\Debug\net6.0\sudoku_solver.pdb
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.dll
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\refint\sudoku_solver.dll
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.pdb
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\sudoku_solver.genruntimeconfig.cache
+C:\Users\Finn Arth\source\repos\sudoku_solver\sudoku_solver\obj\Debug\net6.0\ref\sudoku_solver.dll
